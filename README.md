@@ -6,5 +6,7 @@
  git add .  添加当前目录的所有文件到栈存里面去
  git commit --amend --no-edit    把刚才变化的文件追加上去
 ## 资料
- 'https://github.com
-  https://spring.io/guides/
+ [github文档](https://github.com)
+ [spring 文档](https://spring.io/guides/)
+ [bootstrap文档](https://v3.bootcss.com/)
+ [github OAuth文档](https://developer.github.com/apps/building-oauth-apps/)
