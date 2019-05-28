@@ -8,12 +8,13 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-
+/*
+* 认证controller*/
 @Controller
 public class AuthorizeController {
     @Autowired
     private GithubProvider githubProvider;
-    @Value("${github.client.id}")//去配置文件里面读
+    @Value("${github.client.id}")//去application.properties配置文件里面读
     private  String clientId;
     @Value("${github.client.secret}")
     private  String clientSecret;

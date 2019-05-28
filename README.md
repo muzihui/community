@@ -9,4 +9,4 @@
  [github文档](https://github.com)
  [spring 文档](https://spring.io/guides/)
  [bootstrap文档](https://v3.bootcss.com/)
- [github OAuth文档](https://developer.github.com/apps/building-oauth-apps/)
+ [github OAuth文档](https://developer.github.com/apps/building-oauth-apps/git )
